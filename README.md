@@ -1,5 +1,5 @@
 # Rational-Database
-An example of a task about creating a rational database. It was made in Microsoft SQL Server Management Studio. Initially created for the purpose of database course on the university.
+An example of a task about creating a rational database. It was made in Microsoft SQL Server Management Studio. Initially created for the purpose of database course on the university. In the sql file everything is commented, so it does not see that I have any code in TSQL.
 # Description of a task
 1. The online store with mobile devices sells various types of smartphones and accessories.
 
